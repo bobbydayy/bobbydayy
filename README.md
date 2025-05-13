@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bobbydayy
-- 👀 I’m interested in data science & machine learning!!
-- 🌱 I’m currently learning python, AWS, tableau!!
-- 💞️ Thanks for stopping by!!
+- 👀 I’m interested in data eng, machine learning, potentially some Atlassian app development...
+- 🌱 I’m currently learning everything!!
+- 💞️ Thanks for stopping by.
 - 📫 :)
 
 <!---
